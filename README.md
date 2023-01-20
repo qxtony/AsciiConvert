@@ -5,6 +5,6 @@ This project uses OpenCV, as well as Pygame.
 
 To start the program, enter the following:
 ```sh
-python -m asciivideo your_video.mp4
+python -m asciivideo bad_apple.mp4
 ```
-Where _your_video.mp4_ is the name of the video file.
+Where _bad_apple.mp4_ is the name of the video file.
