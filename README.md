@@ -1,9 +1,10 @@
-## A simple program that can do something as _small_ as: Display your video as ASCII characters using OpenCv and PyGame.
+## A program that draws videos from ASCII characters.
+This project uses OpenCV, as well as Pygame.
 
+Для демонстрации работы. было взято видео «Bad apple».
 
-For example, a video of a fight from the game Undertale was taken.
-
-To run the program, you must take any video file and rename it to _video.mp4_, and then enter the following command:
+To start the program, enter the following:
 ```sh
-python3 show_video.py
+python -m asciivideo your_video.mp4
 ```
+Where _your_video.mp4_ is the name of the video file.
