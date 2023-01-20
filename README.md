@@ -9,6 +9,13 @@ The video «Bad apple» was taken to demonstrate the work.
 git clone https://github.com/qxtony/asciivideo.git
 ```
 
+And:
+
+```bash
+cd asciivideo
+```
+
+
 To start the program, enter the following:
 ```sh
 python -m asciivideo bad_apple.mp4
