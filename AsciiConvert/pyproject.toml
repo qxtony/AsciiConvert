@@ -1,6 +1,0 @@
-[tool.mypy]
-strict = true
-warn_no_return = false
-
-[tool.black]
-line-length = 79
