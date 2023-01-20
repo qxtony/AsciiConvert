@@ -9,12 +9,12 @@ The video «Bad apple» was taken to demonstrate the work.
 git clone https://github.com/qxtony/asciivideo.git
 ```
 
-And:
+Go to the folder and install the dependencies:
 
 ```bash
 cd asciivideo
+pip install -r requirements.txt
 ```
-
 
 To start the program, enter the following:
 ```sh
