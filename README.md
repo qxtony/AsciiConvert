@@ -1,7 +1,13 @@
 ## A program that draws videos from ASCII characters.
 This project uses OpenCV, as well as Pygame.
 
-Для демонстрации работы. было взято видео «Bad apple».
+The video «Bad apple» was taken to demonstrate the work.
+
+## Installation
+
+```bash
+git clone https://github.com/qxtony/asciivideo.git
+```
 
 To start the program, enter the following:
 ```sh
